@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignmen_2</string>
+    <string name="app_logo">app logo</string>
+        <string name="add_new_task">Add New Task</string>
+        <string name="input_task">Enter task details</string>
+        <string name="add_task">Add Task</string>
+        <string name="sample_task">Sample Task</string>
+    <string name="input_task_description">Enter task description</string>
+    <string name="save">Save</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+
+</resources>
